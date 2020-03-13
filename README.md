@@ -27,4 +27,4 @@ docker-compose -f docker-compose.yml down --volumes --remove-orphans
 
 ## Use
 
-Open <http://localhost:8183/> to see the "adminer" user interface and login with username "root" and password "my-secure-pw"
+Open <http://localhost:8123/> to see the "adminer" user interface and login with username "root" and password "my-secure-pw"
