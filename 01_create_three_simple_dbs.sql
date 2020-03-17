@@ -1,4 +1,4 @@
-# -- Create 3 databases with test tables and views
+# -- Create 3 simple databases with test tables and views
 
 CREATE DATABASE db1;
 USE db1;
